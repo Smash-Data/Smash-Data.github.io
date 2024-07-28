@@ -1,3 +1,3 @@
 # Smash-Data.github.io
 
-## Hello world
+# Hello world
